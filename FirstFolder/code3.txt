@@ -13,3 +13,4 @@ a12
 
 Fast hotfix
 hotfix 2
+release 3.0.0
