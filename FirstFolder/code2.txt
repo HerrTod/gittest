@@ -2,3 +2,4 @@ dev2 development commit 3       Release 1.0.0    oprava
 feature
 dev 3
 dev 4
+release 2.0 a b
